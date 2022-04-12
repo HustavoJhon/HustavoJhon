@@ -50,7 +50,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 [![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/Quananhle "Vim")](https://github.com/Quananhle)
