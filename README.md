@@ -1,60 +1,83 @@
-<h1 align="center"> Hey 👋🏽, I'm Jhon Gustavo </h1>
+<h1 align="center">Hey 👋🏽, I'm Hustavo</h1>
+<div align="center">
+    <p>
+        ☠️ Hi, I'm Jhon Gustavo Ccarita Velasquez, Computer Engineer & Software Developer from Peruvian. <br>
+        🎓 I graduated from senati Technical University Computer Engineering Department. <br>
+        💻 I love writing code and learn something about Linux (open source). <br>
+            🔬 I’m currently working on Python. <br>
+        📚 I’m currently learning how to build E-Commerce Website with PHP. <br>
+    </p>
+</div>
 
+    
 <img align="right" alt="gif" width="400px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 
-<br>
-<p align="left">
-  ☠️ Hi, I'm Jhon Gustavo Ccarita Velasquez, Computer Engineer & Software Developer from Peruvian
-  <br>
-  🎓 I graduated from senati Technical University Computer Engineering Department
-  <br>
-  💻 I love writing code and learn something about Linux (open source)
-  <br>
-  🔬 I’m currently working on Python
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with PHP
-  <br>
-  📫 How to reach me: <a href="mailto:hustavojhon@gmail.com">@hustavoJhon</a>
-  </a> &nbsp;&nbsp;
-</p>
+<div align="left">
 
-<div style="text-align:center">
-  <a href="image/pingunivo">
-    <img alt="linkedin" width="25px" src="https://i.postimg.cc/CxH6hkr9/pinguino.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-jhon-31b549236/">
-    <img alt="linkedin" width="20px" src="https://i.postimg.cc/MGptz4Qj/linkedin.png"/> 
-  </a>
-  <a href="https://www.instagram.com/hustavjhon/">
-    <img alt="Instagram" width="20px" src="https://i.postimg.cc/tRMKw385/new-instagram-logo-png-transparent.webp"/> 
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100077200448864">
-    <img  alt="facebook" width="20px" src="https://i.postimg.cc/1tZGfjgH/logo-facebook-png.png"/>
+[![Instagram](https://img.shields.io/badge/-instagram-D62E84?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/hustavoJhon)](https://www.instagram.com/hustavjhon/)
+
+[![Facebook](https://img.shields.io/badge/-facebook-1977F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://github.com/hustavoJhon)](https://www.facebook.com/profile.php?id=100077200448864)
+
+[![Twitter](https://img.shields.io/badge/-twitter-1CA1F1?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/hustavoJhon)](https://twitter.com/hustavoJhon)
+
+[![Reddit](https://img.shields.io/badge/-reddit-FD3200?style=for-the-badge&logo=reddit&logoColor=white&link=https://github.com/hustavoJhon)](https://www.reddit.com/user/hustav01)
+
+[![Discord](https://img.shields.io/badge/-CampHack-23272C?style=for-the-badge&logo=discord&logoColor=7188DB&link=https://github.com/hustavoJhon)](https://discord.gg/yNRKn29Rew)
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=016293&link=https://github.com/hustavoJhon)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
+
 </div>
-<hr>
-<br/>
 
+----
+<div align="left">
+
+## Languages 
+
+> __Backend__:
+    [![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=https://github.com/hustavoJhon)](https://github.com/hustavoJhon)
+    [![Go](https://img.shields.io/badge/-black?style=flat&logo=go&logoColor=00AAD7&link=https://github.com/hustavoJhon)](https://github.com/hustavoJhon) 
+
+> __Frontend__:
+    [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript&link=https://github.com/hustavojhon)](https://github.com/hsutavojhon) 
+    [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5&logoColor=E44D25&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/hustavoJhon) 
+    [![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=1573B5&link=https://github.com/hustavojhon)](https://github.com/hustavoJhon) 
+    [![Npm](https://img.shields.io/badge/-black?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
+    [![Nodejs](https://img.shields.io/badge/-black?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
+    [![Bootstrap](https://img.shields.io/badge/-black?style=flat&logo=bootstrap&logoColor=8653D4&link=https://github.com/)](https://github.com/hustavojhon) 
+  
+> __Database Developer__:
+    [![Mysql](https://img.shields.io/badge/-black?style=flat&logo=mysql&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
+    [![Oraclesql](https://img.shields.io/badge/-black?style=flat&logo=oracle&logoColor=red&link=https://github.com/)](https://github.com/hustavojhon)
+
+> __OS__:
+    [![arch](https://img.shields.io/badge/-black?style=flat&logo=archlinux&logoColor=1794D2&link=https://github.com/)](https://github.com/hustavojhon)
+    [![ubuntu](https://img.shields.io/badge/-black?style=flat&logo=ubuntu&logoColor=E0480E&link=https://github.com/)](https://github.com/hustavojhon)
+    [![kali](https://img.shields.io/badge/-black?style=flat&logo=kalilinux&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
+    [![manjaro](https://img.shields.io/badge/-black?style=flat&logo=manjaro&logoColor=34BF5C&link=https://github.com/)](https://github.com/hustavojhon)
+    [![windows](https://img.shields.io/badge/-black?style=flat&logo=windows&logoColor=1EACFF&link=https://github.com/)](https://github.com/hustavojhon)
+    [![debian](https://img.shields.io/badge/-black?style=flat&logo=debian&logoColor=DB0851&link=https://github.com/)](https://github.com/hustavojhon)
+
+> __IDE__:
+    [![vim](https://img.shields.io/badge/-black?style=flat&logo=vim&logoColor=1A9540&link=https://github.com/)](https://github.com/hustavojhon)
+    [![neovim](https://img.shields.io/badge/-black?style=flat&logo=neovim&logoColor=5D9E35&link=https://github.com/)](https://github.com/hustavojhon)
+    [![vsc](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=218CD5&link=https://github.com/)](https://github.com/hustavojhon)
+    [![intellij](https://img.shields.io/badge/-black?style=flat&logo=intellijidea&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
+
+> __VC & C.I__:
+    [![git](https://img.shields.io/badge/-black?style=flat&logo=git&logoColor=F15233&link=https://github.com/)](https://github.com/hustavojhon) 
+    [![github](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)  
+
+</div>
+    
 <div align="center">
+    📫 How to reach me: <a href="mailto:hustavojhon@gmail.com">@hustavoJhon</a>
 
-### 👨‍💻 Languages and Tools & Spotify Playing 🎧
+[![github](https://img.shields.io/badge/-gmail-white?style=flat-square&logo=gmail&logoColor=D64D40&link=https://github.com/)](hustavoJhon@gmail.com) 
+
+</div>
+
 <p align="center">
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: right; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer) 
-[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-
-[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/Quananhle "Vim")](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
-[![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle)
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/Quananhle "IntelliJ IDEA")](https://github.com/Quananhle)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="1500" style="float: right; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 
 </p>
-</div>
