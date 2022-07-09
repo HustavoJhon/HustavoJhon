@@ -7,23 +7,18 @@
             🔬 I’m currently working on Python. <br>
         📚 I’m currently learning how to build E-Commerce Website with PHP. <br>
     </p>
+
+<img  alt="gif" width="500px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 </div>
 
-    
-<img align="right" alt="gif" width="400px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
-
-<div align="left">
+  
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/-instagram-D62E84?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/hustavoJhon)](https://www.instagram.com/hustavjhon/)
-
 [![Facebook](https://img.shields.io/badge/-facebook-1977F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://github.com/hustavoJhon)](https://www.facebook.com/profile.php?id=100077200448864)
-
 [![Twitter](https://img.shields.io/badge/-twitter-1CA1F1?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/hustavoJhon)](https://twitter.com/hustavoJhon)
-
 [![Reddit](https://img.shields.io/badge/-reddit-FD3200?style=for-the-badge&logo=reddit&logoColor=white&link=https://github.com/hustavoJhon)](https://www.reddit.com/user/hustav01)
-
 [![Discord](https://img.shields.io/badge/-CampHack-23272C?style=for-the-badge&logo=discord&logoColor=7188DB&link=https://github.com/hustavoJhon)](https://discord.gg/yNRKn29Rew)
-
 [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=016293&link=https://github.com/hustavoJhon)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
 
 </div>
