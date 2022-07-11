@@ -36,6 +36,7 @@
     [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript&link=https://github.com/hustavojhon)](https://github.com/hsutavojhon) 
     [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5&logoColor=E44D25&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/hustavoJhon) 
     [![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=1573B5&link=https://github.com/hustavojhon)](https://github.com/hustavoJhon) 
+     [![Php](https://img.shields.io/badge/-black?style=flat&logo=php&logoColor=blue&link=https://github.com/)](https://github.com/hustavojhon) 
     [![Npm](https://img.shields.io/badge/-black?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
     [![Nodejs](https://img.shields.io/badge/-black?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
     [![Bootstrap](https://img.shields.io/badge/-black?style=flat&logo=bootstrap&logoColor=8653D4&link=https://github.com/)](https://github.com/hustavojhon) 
