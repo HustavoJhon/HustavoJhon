@@ -62,7 +62,9 @@
 > __VC & C.I__:
     [![git](https://img.shields.io/badge/-black?style=flat&logo=git&logoColor=F15233&link=https://github.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
-    [![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon)  
+    [![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
+    [![github](https://img.shields.io/badge/-black?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon)  
+
 
 </div>
     
