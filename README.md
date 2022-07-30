@@ -65,6 +65,8 @@
     [![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
+    [![github](https://img.shields.io/badge/-black?style=flat&logo=linux&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
+
 
 
 </div>
