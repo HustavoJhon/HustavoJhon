@@ -13,13 +13,15 @@
 
   
 <div align="center">
-
+    
+[![Spotify](https://img.shields.io/badge/-SPOTIFY-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://github.com/hustavoJhon)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![Instagram](https://img.shields.io/badge/-instagram-D62E84?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/hustavoJhon)](https://www.instagram.com/hustavjhon/)
 [![Facebook](https://img.shields.io/badge/-facebook-1977F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://github.com/hustavoJhon)](https://www.facebook.com/profile.php?id=100077200448864)
 [![Twitter](https://img.shields.io/badge/-twitter-1CA1F1?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/hustavoJhon)](https://twitter.com/hustavoJhon)
 [![Reddit](https://img.shields.io/badge/-reddit-FD3200?style=for-the-badge&logo=reddit&logoColor=white&link=https://github.com/hustavoJhon)](https://www.reddit.com/user/hustav01)
 [![Discord](https://img.shields.io/badge/-CampHack-23272C?style=for-the-badge&logo=discord&logoColor=7188DB&link=https://github.com/hustavoJhon)](https://discord.gg/yNRKn29Rew)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=016293&link=https://github.com/hustavoJhon)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
+
 
 </div>
 
@@ -62,13 +64,12 @@
 > __VC & C.I__:
     [![git](https://img.shields.io/badge/-black?style=flat&logo=git&logoColor=F15233&link=https://github.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
+    [![github](https://img.shields.io/badge/-black?style=flat&logo=linux&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-    [![github](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-    [![github](https://img.shields.io/badge/-black?style=flat&logo=linux&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-
-
-
+    [![github](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon)
+    
+    
 </div>
     
 <div align="center">
