@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋🏽, I'm Hustavo</h1>
 <div align="center">
-    <p>
+    <span>
         ☠️ Hi, I'm Jhon Gustavo Ccarita Velasquez, Computer Engineer & Software Developer from Peruvian. <br>
         🎓 I graduated from senati Technical University Computer Engineering Department. <br>
         💻 I love writing code and learn something about Linux (open source). <br>
             🔬 I’m currently working on Python. <br>
         📚 I’m currently learning how to build E-Commerce Website with PHP. <br>
-    </p>
+    </span>
 
 <img  alt="gif" width="500px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 </div>
