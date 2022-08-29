@@ -8,6 +8,8 @@
         📚 I’m currently learning how to build E-Commerce Website with PHP. <br>
 </span>
 
+
+
 <div align="center">
 <img  alt="gif" width="500px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 </div>
@@ -69,7 +71,7 @@
     [![github](https://img.shields.io/badge/-black?style=flat&logo=linux&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
     [![github](https://img.shields.io/badge/-black?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-    [![github](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon)
+    [![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](#iterm2)
     
     
 </div>
