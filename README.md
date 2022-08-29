@@ -31,14 +31,14 @@
 ## Languages 
 
 > __Backend__:
-    [![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=https://github.com/hustavoJhon)](https://github.com/hustavoJhon)
-    [![Go](https://img.shields.io/badge/-black?style=flat&logo=go&logoColor=00AAD7&link=https://github.com/hustavoJhon)](https://github.com/hustavoJhon) 
+    [![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=#python)](https://github.com/hustavoJhon)
+    [![Go](https://img.shields.io/badge/-black?style=flat&logo=go&logoColor=00AAD7&link=#go)](https://github.com/hustavoJhon) 
 
 > __Frontend__:
-    [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript&link=https://github.com/hustavojhon)](https://github.com/hsutavojhon) 
-    [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5&logoColor=E44D25&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/hustavoJhon) 
-    [![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=1573B5&link=https://github.com/hustavojhon)](https://github.com/hustavoJhon) 
-    [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=markdown&logoColor=white&link=https://github.com/Quananhle/Full-Stack-in-Django)](https://github.com/hustavoJhon) 
+    [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript&link=#javascript)](https://github.com/hsutavojhon) 
+    [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5&logoColor=E44D25&link=#html)](https://github.com/hustavoJhon) 
+    [![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=1573B5&link=#css3)](https://github.com/hustavoJhon) 
+    [![MARKDOWN](https://img.shields.io/badge/-black?style=flat&logo=markdown&logoColor=white&link=#markdown)](https://github.com/hustavoJhon) 
      [![Php](https://img.shields.io/badge/-black?style=flat&logo=php&logoColor=blue&link=https://github.com/)](https://github.com/hustavojhon) 
     [![Npm](https://img.shields.io/badge/-black?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
     [![Nodejs](https://img.shields.io/badge/-black?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
