@@ -45,7 +45,28 @@
 [![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
 [![github](https://img.shields.io/badge/-black?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
 [![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](#iterm2)
-    
+
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=valorant&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=steam&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=minecraft&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=firefox&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=brave&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=google&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=stackoverflow&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=tinder&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobe&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobepremierepro&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobeillustrator&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobephotoshop&logoColor=white&link=https://bash.com/)](#iterm2)
+[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobeaftereffects&logoColor=white&link=https://bash.com/)](#iterm2)
+
+
+
+
+
+
+
+
 </div>
     
 
@@ -64,6 +85,7 @@
 [![REDDIT](https://img.shields.io/badge/-FD3200?style=flat-square&logo=reddit&logoColor=white&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
 [![DISCORD](https://img.shields.io/badge/-7188DB?style=flat-square&logo=discord&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
 [![LINKEDIN](https://img.shields.io/badge/-016293?style=flat-square&logo=linkedin&logoColor=white&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
+[![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
 
 <!-- [![Spotify](https://img.shields.io/badge/-SPOTIFY-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://github.com/hustavoJhon)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952) -->
 
