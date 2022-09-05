@@ -59,14 +59,9 @@
 [![TELEGRAM](https://img.shields.io/badge/-white?style=flat&logo=telegram&logoColor=white&link=https://bash.com/)](#iterm2)
 [![VIRTUALBOX](https://img.shields.io/badge/-173760?style=flat&logo=virtualbox&logoColor=white&link=https://bash.com/)](#iterm2)
 
-
-
-
-
-
 </div>
     
-
+<br>
 
 
 <div align="center">
@@ -83,11 +78,11 @@
 [![DISCORD](https://img.shields.io/badge/-7188DB?style=flat-square&logo=discord&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
 [![LINKEDIN](https://img.shields.io/badge/-016293?style=flat-square&logo=linkedin&logoColor=white&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
 [![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
-
+      
+</div>
 
 <!-- [![Spotify](https://img.shields.io/badge/-SPOTIFY-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://github.com/hustavoJhon)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952) -->
 
-</div>
 
 <div align="center">
         <p> 
