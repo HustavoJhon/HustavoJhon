@@ -1,7 +1,7 @@
 <p align="center">
       Hello, I am hustavo<br>
       <br>
-      <samp>I am a lua fan, front-end dev and Linux enthusiast<br></samp>
+      <samp>I am a gus fan, front-end dev and Linux enthusiast<br></samp>
   </p>
 
 
@@ -16,51 +16,48 @@
 
 <!-- ## Languages  -->
 
- <!-- __Backend__: -->
 [![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=#python)](https://github.com/hustavoJhon)
-[![Go](https://img.shields.io/badge/-black?style=flat&logo=go&logoColor=00AAD7&link=#go)](https://github.com/hustavoJhon) 
+[![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon) 
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript&link=#javascript)](https://github.com/hsutavojhon) 
-[![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5&logoColor=E44D25&link=#html)](https://github.com/hustavoJhon) 
-[![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=1573B5&link=#css3)](https://github.com/hustavoJhon) 
-[![MARKDOWN](https://img.shields.io/badge/-black?style=flat&logo=markdown&logoColor=white&link=#markdown)](https://github.com/hustavoJhon) 
-[![Php](https://img.shields.io/badge/-black?style=flat&logo=php&logoColor=blue&link=https://github.com/)](https://github.com/hustavojhon) 
-[![Npm](https://img.shields.io/badge/-black?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
-[![Nodejs](https://img.shields.io/badge/-black?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
-[![Bootstrap](https://img.shields.io/badge/-black?style=flat&logo=bootstrap&logoColor=8653D4&link=https://github.com/)](https://github.com/hustavojhon) 
-[![Mysql](https://img.shields.io/badge/-black?style=flat&logo=mysql&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
-[![Oraclesql](https://img.shields.io/badge/-black?style=flat&logo=oracle&logoColor=red&link=https://github.com/)](https://github.com/hustavojhon)
+[![HTML5](https://img.shields.io/badge/-E44D25?style=flat&logo=html5&logoColor=white&link=#html)](https://github.com/hustavoJhon) 
+[![CSS3](https://img.shields.io/badge/-1572B8?style=flat&logo=css3&logoColor=white&link=#css3)](https://github.com/hustavoJhon) 
+[![MARKDOWN](https://img.shields.io/badge/-455A65?style=flat&logo=markdown&logoColor=white&link=#markdown)](https://github.com/hustavoJhon) 
+[![PHP](https://img.shields.io/badge/-535488?style=flat&logo=php&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
+[![C++](https://img.shields.io/badge/-015A9E?style=flat&logo=cplusplus&logoColor=FFFFFF&link=https://github.com/)](https://github.com/hustavojhon) 
+[![NPM](https://img.shields.io/badge/-white?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
+[![NODEJS](https://img.shields.io/badge/-25262E?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
+[![BOOTSTRAP](https://img.shields.io/badge/-8653D4?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
+[![SQLSERVER](https://img.shields.io/badge/-white?style=flat&logo=microsoftsqlserver&logoColor=CB0E41&link=https://github.com/)](https://github.com/hustavojhon) 
+[![MYSQL](https://img.shields.io/badge/-white?style=flat&logo=mysql&logoColor=03628E&link=https://github.com/)](https://github.com/hustavojhon) 
+[![Oraclesql](https://img.shields.io/badge/-3A3632?style=flat&logo=oracle&logoColor=red&link=https://github.com/)](https://github.com/hustavojhon)
+[![WINDOWS](https://img.shields.io/badge/-00ACED?style=flat&logo=windows&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
+[![LINUX](https://img.shields.io/badge/-white?style=flat&logo=linux&logoColor=black&link=https://bash.com/)](https://github.com/hustavojhon) 
 [![arch](https://img.shields.io/badge/-black?style=flat&logo=archlinux&logoColor=1794D2&link=https://github.com/)](https://github.com/hustavojhon)
 [![ubuntu](https://img.shields.io/badge/-black?style=flat&logo=ubuntu&logoColor=E0480E&link=https://github.com/)](https://github.com/hustavojhon)
 [![kali](https://img.shields.io/badge/-black?style=flat&logo=kalilinux&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
 [![manjaro](https://img.shields.io/badge/-black?style=flat&logo=manjaro&logoColor=34BF5C&link=https://github.com/)](https://github.com/hustavojhon)
-[![windows](https://img.shields.io/badge/-black?style=flat&logo=windows&logoColor=1EACFF&link=https://github.com/)](https://github.com/hustavojhon)
-[![debian](https://img.shields.io/badge/-black?style=flat&logo=debian&logoColor=DB0851&link=https://github.com/)](https://github.com/hustavojhon)
-[![vim](https://img.shields.io/badge/-black?style=flat&logo=vim&logoColor=1A9540&link=https://github.com/)](https://github.com/hustavojhon)
-[![neovim](https://img.shields.io/badge/-black?style=flat&logo=neovim&logoColor=5D9E35&link=https://github.com/)](https://github.com/hustavojhon)
-[![vsc](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=218CD5&link=https://github.com/)](https://github.com/hustavojhon)
-[![intellij](https://img.shields.io/badge/-black?style=flat&logo=intellijidea&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
-[![git](https://img.shields.io/badge/-black?style=flat&logo=git&logoColor=F15233&link=https://github.com/)](https://github.com/hustavojhon) 
-[![github](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
-[![github](https://img.shields.io/badge/-black?style=flat&logo=linux&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-[![github](https://img.shields.io/badge/-black?style=flat&logo=shell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-[![github](https://img.shields.io/badge/-black?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=iterm2&logoColor=white&link=https://bash.com/)](#iterm2)
-
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=valorant&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=steam&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=minecraft&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=firefox&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=brave&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=google&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=stackoverflow&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=tinder&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobe&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobepremierepro&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobeillustrator&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobephotoshop&logoColor=white&link=https://bash.com/)](#iterm2)
-[![ITEM2](https://img.shields.io/badge/-black?style=flat&logo=adobeaftereffects&logoColor=white&link=https://bash.com/)](#iterm2)
-
-
+[![DEBIAN](https://img.shields.io/badge/-white?style=flat&logo=debian&logoColor=DB0851&link=https://github.com/)](https://github.com/hustavojhon)
+[![VIM](https://img.shields.io/badge/-black?style=flat&logo=vim&logoColor=1A9540&link=https://github.com/)](https://github.com/hustavojhon)
+[![NEOVIM](https://img.shields.io/badge/-black?style=flat&logo=neovim&logoColor=5D9E35&link=https://github.com/)](https://github.com/hustavojhon)
+[![VSC](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=218CD5&link=https://github.com/)](https://github.com/hustavojhon)
+[![VISUAL STUDIO](https://img.shields.io/badge/-black?style=flat&logo=visualstudio&logoColor=BF91F3&link=https://bash.com/)](#iterm2)
+[![INTELLIJ](https://img.shields.io/badge/-black?style=flat&logo=intellijidea&logoColor=FE315D&link=https://github.com/)](https://github.com/hustavojhon)
+[![GIT](https://img.shields.io/badge/-black?style=flat&logo=git&logoColor=F15233&link=https://github.com/)](https://github.com/hustavojhon) 
+[![GITHUB](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
+[![POWERSHELL](https://img.shields.io/badge/-2D4866?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
+[![VALORANT](https://img.shields.io/badge/-121925?style=flat&logo=valorant&logoColor=FE4256&link=https://bash.com/)](#iterm2)
+[![STEAM](https://img.shields.io/badge/-white?style=flat&logo=steam&logoColor=0E1D31&link=https://bash.com/)](#iterm2)
+[![FIREFOX](https://img.shields.io/badge/-001844?style=flat&logo=firefox&logoColor=00F4F5&link=https://bash.com/)](#iterm2)
+[![BRAVE](https://img.shields.io/badge/-FFFFFF?style=flat&logo=brave&logoColor=FF621C&link=https://bash.com/)](#iterm2)
+[![STACKOVERFLOW](https://img.shields.io/badge/-white?style=flat&logo=stackoverflow&logoColor=F17C10&link=https://bash.com/)](#iterm2)
+[![TINDER](https://img.shields.io/badge/-white?style=flat&logo=tinder&logoColor=FE257C&link=https://bash.com/)](#iterm2)
+[![PREMIERE PRO](https://img.shields.io/badge/-1B0326?style=flat&logo=adobepremierepro&logoColor=E789FD&link=https://bash.com/)](#iterm2)
+[![ILLUSTRATOR](https://img.shields.io/badge/-352418?style=flat&logo=adobeillustrator&logoColor=FC8111&link=https://bash.com/)](#iterm2)
+[![PHOTOSHOP](https://img.shields.io/badge/-011C25?style=flat&logo=adobephotoshop&logoColor=10C6FF&link=https://bash.com/)](#iterm2)
+[![AFTEREFFECTS](https://img.shields.io/badge/-1E0345?style=flat&logo=adobeaftereffects&logoColor=CEA0F6&link=https://bash.com/)](#iterm2)
+[![WHATSAPP](https://img.shields.io/badge/-41C554?style=flat&logo=whatsapp&logoColor=white&link=https://bash.com/)](#iterm2)
+[![TELEGRAM](https://img.shields.io/badge/-white?style=flat&logo=telegram&logoColor=white&link=https://bash.com/)](#iterm2)
+[![VIRTUALBOX](https://img.shields.io/badge/-173760?style=flat&logo=virtualbox&logoColor=white&link=https://bash.com/)](#iterm2)
 
 
 
@@ -74,7 +71,7 @@
 
 <div align="center">
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="300"/>](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400"/>](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
 
  <!-- SOCIAL -->
 [![SPOTIFY](https://img.shields.io/badge/-black?style=flat-square&logo=spotify&logoColor=1ED760&link=https://open.spotify.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
@@ -87,12 +84,15 @@
 [![LINKEDIN](https://img.shields.io/badge/-016293?style=flat-square&logo=linkedin&logoColor=white&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
 [![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
 
+
 <!-- [![Spotify](https://img.shields.io/badge/-SPOTIFY-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://github.com/hustavoJhon)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952) -->
 
 </div>
 
 <div align="center">
-    📫 How to reach me: <a href="mailto:hustavojhon@gmail.com">@hustavoJhon</a>
-
+        <p> 
+                <span>📫 How to reach me: <a href="mailto:hustavojhon@gmail.com">@hustavoJhon</a></span>
+        </p>
+        
 [![github](https://img.shields.io/badge/-gmail-white?style=flat-square&logo=gmail&logoColor=D64D40&link=https://github.com/)](hustavoJhon@gmail.com) 
 </div>
