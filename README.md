@@ -1,8 +1,8 @@
-<!-- <p align="center">
-      Hello, I am hustavo<br>
+<p align="center">
+      <!-- Hello, I am hustavo<br>  -->
       <br>
       <samp>I am a gus fan, front-end dev and Linux enthusiast<br></samp>
-  </p>  -->
+  </p>  
  
 
 <div align="left">
