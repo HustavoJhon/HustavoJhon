@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
       Hello, I am hustavo<br>
       <br>
       <samp>I am a gus fan, front-end dev and Linux enthusiast<br></samp>
-  </p>
-
+  </p>  -->
+ 
 
 <div align="left">
     <img  alt="gif" width="350px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
