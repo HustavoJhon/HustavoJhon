@@ -1,7 +1,7 @@
 <p align="center">
       <!-- Hello, I am hustavo<br>  -->
       <br>
-      <samp>Hi I'm hustavo, front-end developer and Linux enthusiast.<br></samp>
+      <samp>Hi I'm hustavo, front-end developer and Linux enthusiast ツ.<br></samp>
   </p>  
  
 
