@@ -58,6 +58,8 @@
 [![WHATSAPP](https://img.shields.io/badge/-41C554?style=flat&logo=whatsapp&logoColor=white&link=https://bash.com/)](#iterm2)
 [![TELEGRAM](https://img.shields.io/badge/-white?style=flat&logo=telegram&logoColor=white&link=https://bash.com/)](#iterm2)
 [![VIRTUALBOX](https://img.shields.io/badge/-173760?style=flat&logo=virtualbox&logoColor=white&link=https://bash.com/)](#iterm2)
+[![CPANEL](https://img.shields.io/badge/-ff6c2c?style=flat&logo=cpanel&logoColor=white&link=https://bash.com/)](#iterm2)
+
 
 </div>
     
