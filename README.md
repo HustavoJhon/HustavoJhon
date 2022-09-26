@@ -26,6 +26,7 @@
 [![C++](https://img.shields.io/badge/-015A9E?style=flat&logo=cplusplus&logoColor=FFFFFF&link=https://github.com/)](https://github.com/hustavojhon) 
 [![NPM](https://img.shields.io/badge/-white?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
 [![NODEJS](https://img.shields.io/badge/-25262E?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
+[![NET](https://img.shields.io/badge/-6610f2?style=flat&logo=.net&logoColor=white&link=https://github.com/)](https://github.com/hustavoJhon) 
 [![BOOTSTRAP](https://img.shields.io/badge/-8653D4?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
 [![SQLSERVER](https://img.shields.io/badge/-white?style=flat&logo=microsoftsqlserver&logoColor=CB0E41&link=https://github.com/)](https://github.com/hustavojhon) 
 [![MYSQL](https://img.shields.io/badge/-white?style=flat&logo=mysql&logoColor=03628E&link=https://github.com/)](https://github.com/hustavojhon) 
