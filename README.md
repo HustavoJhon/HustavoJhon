@@ -79,6 +79,7 @@
 [![TWITTER](https://img.shields.io/badge/-1CA1F1?style=flat-square&logo=twitter&logoColor=white&link=https://open.spotify.com/)](https://twitter.com/hustavoJhon)
 [![REDDIT](https://img.shields.io/badge/-FD3200?style=flat-square&logo=reddit&logoColor=white&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
 [![DISCORD](https://img.shields.io/badge/-7188DB?style=flat-square&logo=discord&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
+[![SLACK](https://img.shields.io/badge/-400d40?style=flat-square&logo=slack&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
 [![LINKEDIN](https://img.shields.io/badge/-016293?style=flat-square&logo=linkedin&logoColor=white&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
 [![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
       
