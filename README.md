@@ -90,9 +90,8 @@
 
 
 <div align="center">
-        <p> 
-                <span>📫 How to reach me: <a href="mailto:hustavojhon@gmail.com">@hustavoJhon</a></span>
-        </p>
-        
+
 [![github](https://img.shields.io/badge/-gmail-white?style=flat-square&logo=gmail&logoColor=D64D40&link=https://github.com/)](hustavoJhon@gmail.com) 
+      
 </div>
+
