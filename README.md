@@ -85,9 +85,6 @@ Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 
 
 </div>
-    
-<br>
-
 
 <div align="center">
 
