@@ -1,7 +1,27 @@
+<div align="justify">
+
+<div align="center">
+
+```ocaml
+Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
+```
+
+```css
+██████╗ ██╗██████╗  █████╗ ████████╗███████╗
+██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
+██████╔╝██║██████╔╝███████║   ██║   █████╗  
+██╔═══╝ ██║██╔══██╗██╔══██║   ██║   ██╔══╝  
+██║     ██║██║  ██║██║  ██║   ██║   ███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
+</div>
+<pre align="center">
+<a href="#seedling--setup">LANGUAGES</a> • <a href="#four_leaf_clover--key-bindings">SKILLS</a> • <a href="#four_leaf_clover--key-bindings">TOOLS</a> • <a href="#herb--guides">SOCIAL</a>
+</pre>
+
 <p align="center">
       <!-- Hello, I am hustavo<br>  -->
-      <br>
-      <samp>Hi I'm hustavo, front-end developer and Linux enthusiast ツ.<br></samp>
+      <!-- <samp>Hi I'm hustavo, front-end developer and Linux enthusiast ツ.<br></samp> -->
   </p>  
  
 
