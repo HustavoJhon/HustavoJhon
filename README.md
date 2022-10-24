@@ -88,7 +88,7 @@ Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 
 <div align="center">
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400"/>](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400"/>](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=b8bc57d770134382)
 
  <!-- SOCIAL -->
 [![SPOTIFY](https://img.shields.io/badge/-black?style=flat-square&logo=spotify&logoColor=1ED760&link=https://open.spotify.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
@@ -103,13 +103,3 @@ Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 [![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
       
 </div>
-
-<!-- [![Spotify](https://img.shields.io/badge/-SPOTIFY-1ED760?style=for-the-badge&logo=spotify&logoColor=white&link=https://github.com/hustavoJhon)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952) -->
-
-
-<div align="center">
-
-[![github](https://img.shields.io/badge/-gmail-white?style=flat-square&logo=gmail&logoColor=D64D40&link=https://github.com/)](hustavoJhon@gmail.com) 
-      
-</div>
-
