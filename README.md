@@ -25,17 +25,17 @@ Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 
 <details align="center">
 <summary> &#9655;</summary>
-
+<!--
 <h2></h2><br>
-<!-- <p align="center">
+  <p align="center">
   <samp>
     [<a href="https://#!">Skills</a>]
     [<a href="mailto:hustavoJhon@gmail.com">Social</a>]
   </samp>
 </p>
--->
 
 <h2></h2><br>
+-->
 
 <div align="right">
 
