@@ -1,40 +1,43 @@
-<div align="justify">
+<!--<p align="left"><b><samp>「</samp></b></p> -->
+<p align="center">
+<samp>
+<div align="left">
+    <img  alt="gif" width="300px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
+</div>
 
 <div align="center">
 
-```ocaml
-Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
-```
-
 ```css
+Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 ██████╗ ██╗██████╗  █████╗ ████████╗███████╗
 ██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
 ██████╔╝██║██████╔╝███████║   ██║   █████╗  
 ██╔═══╝ ██║██╔══██╗██╔══██║   ██║   ██╔══╝  
 ██║     ██║██║  ██║██║  ██║   ██║   ███████╗
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
-```
+```    
 </div>
-<pre align="center">
-<a href="#seedling--setup">LANGUAGES</a> • <a href="#four_leaf_clover--key-bindings">SKILLS</a> • <a href="#four_leaf_clover--key-bindings">TOOLS</a> • <a href="#herb--guides">SOCIAL</a>
-</pre>
+    </samp>
+  </p>
+<!--<p align="right"><b><samp>」</samp></b></p> -->
 
-<p align="center">
-      <!-- Hello, I am hustavo<br>  -->
-      <!-- <samp>Hi I'm hustavo, front-end developer and Linux enthusiast ツ.<br></samp> -->
-  </p>  
- 
+<br>
 
-<div align="left">
-    <img  alt="gif" width="350px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
-</div>
+<details align="center">
+<summary> &#9655;</summary>
 
-  
+<h2></h2><br>
+<!-- <p align="center">
+  <samp>
+    [<a href="https://#!">Skills</a>]
+    [<a href="mailto:hustavoJhon@gmail.com">Social</a>]
+  </samp>
+</p>
+-->
 
-----
+<h2></h2><br>
+
 <div align="right">
-
-<!-- ## Languages  -->
 
 [![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=#python)](https://github.com/hustavoJhon)
 [![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon) 
@@ -83,7 +86,6 @@ Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 [![CPANEL](https://img.shields.io/badge/-ff6c2c?style=flat&logo=cpanel&logoColor=white&link=https://bash.com/)](#iterm2)
 [![LARAVEL](https://img.shields.io/badge/-white?style=flat&logo=laravel&logoColor=ff2d20&link=https://bash.com/)](#iterm2)
 
-
 </div>
 
 <div align="center">
@@ -103,3 +105,5 @@ Hi I'm hustavo, front-end developer and Linux enthusiast ツ.
 [![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
       
 </div>
+
+</details>
