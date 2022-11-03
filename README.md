@@ -8,7 +8,7 @@
 <div align="center">
 
 ```css
-Hi I'm hustavo, front-end developer and Linux enthusiast ツ;
+Hi I'm hustavo, front-end developer & Linux enthusiast ツ;
 ██████╗ ██╗██████╗  █████╗ ████████╗███████╗
 ██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
 ██████╔╝██║██████╔╝███████║   ██║   █████╗  
