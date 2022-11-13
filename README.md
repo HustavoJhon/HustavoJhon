@@ -109,4 +109,3 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 
 </details>
 
-hecho con <3
