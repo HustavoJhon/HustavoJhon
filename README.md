@@ -86,7 +86,9 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 [![VIRTUALBOX](https://img.shields.io/badge/-173760?style=flat&logo=virtualbox&logoColor=white&link=https://bash.com/)](#iterm2)
 [![CPANEL](https://img.shields.io/badge/-ff6c2c?style=flat&logo=cpanel&logoColor=white&link=https://bash.com/)](#iterm2)
 [![LARAVEL](https://img.shields.io/badge/-white?style=flat&logo=laravel&logoColor=ff2d20&link=https://bash.com/)](#iterm2)
-[![LARAVEL](https://img.shields.io/badge/-193452?style=flat&logo=replit&logoColor=ef6506&link=https://bash.com/)](#iterm2)
+[![REPLIT](https://img.shields.io/badge/-193452?style=flat&logo=replit&logoColor=ef6506&link=https://bash.com/)](#iterm2)
+[![PLATZI](https://img.shields.io/badge/-121f3d?style=flat&logo=platzi&logoColor=86b13f&link=https://bash.com/)](#iterm2)
+[![COURSERA](https://img.shields.io/badge/-00419e?style=flat&logo=coursera&logoColor=fff&link=https://bash.com/)](#iterm2)
 
 </div>
 
