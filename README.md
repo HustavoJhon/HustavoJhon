@@ -99,7 +99,7 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
  <!-- SOCIAL NETWORK -->
 [![SPOTIFY](https://img.shields.io/badge/-black?style=flat-square&logo=spotify&logoColor=1ED760&link=https://open.spotify.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![SOUNDCLOUD](https://img.shields.io/badge/-black?style=flat-square&logo=soundcloud&logoColor=FF5500&link=https://open.soundcloud.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
-[![INSTAGRAM](https://img.shields.io/badge/-D62E84?style=flat-square&logo=instagram&logoColor=white&link=https://open.spotify.com/)](https://www.instagram.com/hustavjhon/)
+[![INSTAGRAM](https://img.shields.io/badge/-D62E84?style=flat-square&logo=instagram&logoColor=white&link=https://open.spotify.com/)](https://www.instagram.com/hustavojhon/)
 [![FACEBOOK](https://img.shields.io/badge/-1977F2?style=flat-square&logo=facebook&logoColor=white&link=https://open.spotify.com/)](https://www.facebook.com/profile.php?id=100077200448864)
 [![TWITTER](https://img.shields.io/badge/-1CA1F1?style=flat-square&logo=twitter&logoColor=white&link=https://open.spotify.com/)](https://twitter.com/hustavoJhon)
 [![REDDIT](https://img.shields.io/badge/-FD3200?style=flat-square&logo=reddit&logoColor=white&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
