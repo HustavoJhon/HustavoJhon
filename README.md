@@ -100,13 +100,13 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 [![SPOTIFY](https://img.shields.io/badge/-black?style=flat-square&logo=spotify&logoColor=1ED760&link=https://open.spotify.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![SOUNDCLOUD](https://img.shields.io/badge/-black?style=flat-square&logo=soundcloud&logoColor=FF5500&link=https://open.soundcloud.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![INSTAGRAM](https://img.shields.io/badge/-D62E84?style=flat-square&logo=instagram&logoColor=white&link=https://open.spotify.com/)](https://www.instagram.com/hustavojhon/)
-[![FACEBOOK](https://img.shields.io/badge/-1977F2?style=flat-square&logo=facebook&logoColor=white&link=https://open.spotify.com/)](https://www.facebook.com/profile.php?id=100077200448864)
+[![FACEBOOK](https://img.shields.io/badge/-1977F2?style=flat-square&logo=facebook&logoColor=white&link=https://open.spotify.com/)](https://www.facebook.com/@hudtavojhon)
 [![TWITTER](https://img.shields.io/badge/-1CA1F1?style=flat-square&logo=twitter&logoColor=white&link=https://open.spotify.com/)](https://twitter.com/hustavoJhon)
 [![REDDIT](https://img.shields.io/badge/-FD3200?style=flat-square&logo=reddit&logoColor=white&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
 [![DISCORD](https://img.shields.io/badge/-7188DB?style=flat-square&logo=discord&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
 [![SLACK](https://img.shields.io/badge/-400d40?style=flat-square&logo=slack&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
 [![LINKEDIN](https://img.shields.io/badge/-016293?style=flat-square&logo=linkedin&logoColor=white&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
-[![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.linkedin.com/in/gustavo-jhon-31b549236/)
+[![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
       
 </div>
 
