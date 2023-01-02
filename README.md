@@ -71,7 +71,6 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 [![GITHUB](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
 [![GNU_BASH](https://img.shields.io/badge/-121011?style=flat&logo=gnu-bash&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
 [![POWERSHELL](https://img.shields.io/badge/-2D4866?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-[![VALORANT](https://img.shields.io/badge/-121925?style=flat&logo=valorant&logoColor=FE4256&link=https://bash.com/)](#iterm2)
 [![STEAM](https://img.shields.io/badge/-white?style=flat&logo=steam&logoColor=0E1D31&link=https://bash.com/)](#iterm2)
 [![FIREFOX](https://img.shields.io/badge/-001844?style=flat&logo=firefox&logoColor=00F4F5&link=https://bash.com/)](#iterm2)
 [![BRAVE](https://img.shields.io/badge/-FFFFFF?style=flat&logo=brave&logoColor=FF621C&link=https://bash.com/)](#iterm2)
