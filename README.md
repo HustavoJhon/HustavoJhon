@@ -108,7 +108,7 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 [![SLACK](https://img.shields.io/badge/-400d40?style=flat-square&logo=slack&logoColor=white&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
 [![LINKEDIN](https://img.shields.io/badge/-016293?style=flat-square&logo=linkedin&logoColor=white&link=https://open.spotify.com/)](https://www.linkedin.com/in/hustavojhon/)
 [![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&logoColor=C70000&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
-[![TWITCH](https://img.shields.io/badge/-black?style=flat-square&logo=twitch&logoColor=6441A4&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
+[![TWITCH](https://img.shields.io/badge/-white?style=flat-square&logo=twitch&logoColor=6441A4&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
       
 </div>
 
