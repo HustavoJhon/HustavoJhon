@@ -80,7 +80,6 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 [![ILLUSTRATOR](https://img.shields.io/badge/-352418?style=flat&logo=adobeillustrator&logoColor=FC8111&link=https://bash.com/)](#iterm2)
 [![PHOTOSHOP](https://img.shields.io/badge/-011C25?style=flat&logo=adobephotoshop&logoColor=10C6FF&link=https://bash.com/)](#iterm2)
 [![AFTEREFFECTS](https://img.shields.io/badge/-1E0345?style=flat&logo=adobeaftereffects&logoColor=CEA0F6&link=https://bash.com/)](#iterm2)
-[![WHATSAPP](https://img.shields.io/badge/-41C554?style=flat&logo=whatsapp&logoColor=white&link=https://bash.com/)](#iterm2)
 [![TELEGRAM](https://img.shields.io/badge/-white?style=flat&logo=telegram&logoColor=white&link=https://bash.com/)](#iterm2)
 [![VIRTUALBOX](https://img.shields.io/badge/-173760?style=flat&logo=virtualbox&logoColor=white&link=https://bash.com/)](#iterm2)
 [![CPANEL](https://img.shields.io/badge/-ff6c2c?style=flat&logo=cpanel&logoColor=white&link=https://bash.com/)](#iterm2)
