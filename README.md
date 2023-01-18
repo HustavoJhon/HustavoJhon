@@ -38,9 +38,9 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 <h2></h2><br>
 -->
 
-<div align="right">
+<div align="left">
 
-[![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=#python)](https://github.com/hustavoJhon)
+> [![Python](https://img.shields.io/badge/-black?style=flat&logo=python&logoColor=3A70A0&link=#python)](https://github.com/hustavoJhon)
 [![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon) 
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript&link=#javascript)](https://github.com/hsutavojhon) 
 [![HTML5](https://img.shields.io/badge/-E44D25?style=flat&logo=html5&logoColor=white&link=#html)](https://github.com/hustavoJhon) 
@@ -51,36 +51,35 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 [![NPM](https://img.shields.io/badge/-white?style=flat&logo=npm&logoColor=green&link=https://github.com/)](https://github.com/hustavojhon) 
 [![NODEJS](https://img.shields.io/badge/-25262E?style=flat&logo=node.js&logoColor=green&link=https://github.com/)](https://github.com/hustavoJhon) 
 [![NET](https://img.shields.io/badge/-6610f2?style=flat&logo=.net&logoColor=white&link=https://github.com/)](https://github.com/hustavoJhon) 
-[![BOOTSTRAP](https://img.shields.io/badge/-8653D4?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
-[![SQLSERVER](https://img.shields.io/badge/-white?style=flat&logo=microsoftsqlserver&logoColor=CB0E41&link=https://github.com/)](https://github.com/hustavojhon) 
+[![BOOTSTRAP](https://img.shields.io/badge/-8653D4?style=flat&logo=bootstrap&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)<br>[![SQLSERVER](https://img.shields.io/badge/-white?style=flat&logo=microsoftsqlserver&logoColor=CB0E41&link=https://github.com/)](https://github.com/hustavojhon) 
 [![MYSQL](https://img.shields.io/badge/-white?style=flat&logo=mysql&logoColor=03628E&link=https://github.com/)](https://github.com/hustavojhon) 
-[![Oraclesql](https://img.shields.io/badge/-3A3632?style=flat&logo=oracle&logoColor=red&link=https://github.com/)](https://github.com/hustavojhon)
+[![Oraclesql](https://img.shields.io/badge/-3A3632?style=flat&logo=oracle&logoColor=red&link=https://github.com/)](https://github.com/hustavojhon)<br>
 [![WINDOWS](https://img.shields.io/badge/-00ACED?style=flat&logo=windows&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
 [![LINUX](https://img.shields.io/badge/-white?style=flat&logo=linux&logoColor=black&link=https://bash.com/)](https://github.com/hustavojhon) 
 [![ARCH](https://img.shields.io/badge/-black?style=flat&logo=archlinux&logoColor=1794D2&link=https://github.com/)](https://github.com/hustavojhon)
 [![UBUNTU](https://img.shields.io/badge/-black?style=flat&logo=ubuntu&logoColor=E0480E&link=https://github.com/)](https://github.com/hustavojhon)
 [![KALI](https://img.shields.io/badge/-black?style=flat&logo=kalilinux&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)
 [![manjaro](https://img.shields.io/badge/-black?style=flat&logo=manjaro&logoColor=34BF5C&link=https://github.com/)](https://github.com/hustavojhon)
-[![DEBIAN](https://img.shields.io/badge/-white?style=flat&logo=debian&logoColor=DB0851&link=https://github.com/)](https://github.com/hustavojhon)
+[![DEBIAN](https://img.shields.io/badge/-white?style=flat&logo=debian&logoColor=DB0851&link=https://github.com/)](https://github.com/hustavojhon)<br>
 [![VIM](https://img.shields.io/badge/-black?style=flat&logo=vim&logoColor=1A9540&link=https://github.com/)](https://github.com/hustavojhon)
 [![NEOVIM](https://img.shields.io/badge/-black?style=flat&logo=neovim&logoColor=5D9E35&link=https://github.com/)](https://github.com/hustavojhon)
 [![VSC](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=218CD5&link=https://github.com/)](https://github.com/hustavojhon)
 [![VISUAL STUDIO](https://img.shields.io/badge/-black?style=flat&logo=visualstudio&logoColor=BF91F3&link=https://bash.com/)](#iterm2)
 [![INTELLIJ](https://img.shields.io/badge/-black?style=flat&logo=intellijidea&logoColor=FE315D&link=https://github.com/)](https://github.com/hustavojhon)
 [![GIT](https://img.shields.io/badge/-black?style=flat&logo=git&logoColor=F15233&link=https://github.com/)](https://github.com/hustavojhon) 
-[![GITHUB](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon) 
+[![GITHUB](https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/hustavojhon)<br>
 [![GNU_BASH](https://img.shields.io/badge/-121011?style=flat&logo=gnu-bash&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
 [![POWERSHELL](https://img.shields.io/badge/-2D4866?style=flat&logo=powershell&logoColor=white&link=https://bash.com/)](https://github.com/hustavojhon) 
-[![STEAM](https://img.shields.io/badge/-white?style=flat&logo=steam&logoColor=0E1D31&link=https://bash.com/)](#iterm2)
+<br>[![STEAM](https://img.shields.io/badge/-white?style=flat&logo=steam&logoColor=0E1D31&link=https://bash.com/)](#iterm2)
 [![FIREFOX](https://img.shields.io/badge/-001844?style=flat&logo=firefox&logoColor=00F4F5&link=https://bash.com/)](#iterm2)
 [![BRAVE](https://img.shields.io/badge/-FFFFFF?style=flat&logo=brave&logoColor=FF621C&link=https://bash.com/)](#iterm2)
 [![STACKOVERFLOW](https://img.shields.io/badge/-white?style=flat&logo=stackoverflow&logoColor=F17C10&link=https://bash.com/)](#iterm2)
 [![TINDER](https://img.shields.io/badge/-white?style=flat&logo=tinder&logoColor=FE257C&link=https://bash.com/)](#iterm2)
-[![PREMIERE PRO](https://img.shields.io/badge/-1B0326?style=flat&logo=adobepremierepro&logoColor=E789FD&link=https://bash.com/)](#iterm2)
+<br>[![PREMIERE PRO](https://img.shields.io/badge/-1B0326?style=flat&logo=adobepremierepro&logoColor=E789FD&link=https://bash.com/)](#iterm2)
 [![ILLUSTRATOR](https://img.shields.io/badge/-352418?style=flat&logo=adobeillustrator&logoColor=FC8111&link=https://bash.com/)](#iterm2)
 [![PHOTOSHOP](https://img.shields.io/badge/-011C25?style=flat&logo=adobephotoshop&logoColor=10C6FF&link=https://bash.com/)](#iterm2)
 [![AFTEREFFECTS](https://img.shields.io/badge/-1E0345?style=flat&logo=adobeaftereffects&logoColor=CEA0F6&link=https://bash.com/)](#iterm2)
-[![TELEGRAM](https://img.shields.io/badge/-white?style=flat&logo=telegram&logoColor=white&link=https://bash.com/)](#iterm2)
+<br>[![TELEGRAM](https://img.shields.io/badge/-white?style=flat&logo=telegram&logoColor=blue&link=https://bash.com/)](#iterm2)
 [![VIRTUALBOX](https://img.shields.io/badge/-173760?style=flat&logo=virtualbox&logoColor=white&link=https://bash.com/)](#iterm2)
 [![CPANEL](https://img.shields.io/badge/-ff6c2c?style=flat&logo=cpanel&logoColor=white&link=https://bash.com/)](#iterm2)
 [![LARAVEL](https://img.shields.io/badge/-white?style=flat&logo=laravel&logoColor=ff2d20&link=https://bash.com/)](#iterm2)
@@ -90,7 +89,7 @@ I'm hustavo, front-end developer & Linux enthusiast ツ;
 
 </div>
 
-<div align="center">
+<div align="right">
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400"/>](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=b8bc57d770134382)
 
