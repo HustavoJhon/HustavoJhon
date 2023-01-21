@@ -2,12 +2,14 @@
 <p align="center">
 <samp>
 <div align="left">
-    <img  alt="gif" width="200px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
+    <img  alt="gif" width="220px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 </div>
 
 <div align="center">
-    
-`I'm hustavo, front-end developer & Linux enthusiast ツ;`
+
+```ocaml
+I'm Gustavo, front-end developer & Linux enthusiast 🔭
+```
 
 <!--</div>
     </samp>
@@ -73,9 +75,6 @@
 [![VIRTUALBOX](https://img.shields.io/badge/-black?style=flat&logo=virtualbox&link=https://bash.com/)](#iterm2)
 [![CPANEL](https://img.shields.io/badge/-black?style=flat&logo=cpanel&link=https://bash.com/)](#iterm2)
 [![LARAVEL](https://img.shields.io/badge/-black?style=flat&logo=laravel&link=https://bash.com/)](#iterm2)
-[![REPLIT](https://img.shields.io/badge/-black?style=flat&logo=replit&link=https://bash.com/)](#iterm2)
-[![PLATZI](https://img.shields.io/badge/-black?style=flat&logo=platzi&link=https://bash.com/)](#iterm2)
-[![COURSERA](https://img.shields.io/badge/-black?style=flat&logo=coursera&link=https://bash.com/)](#iterm2)
 
 </div>
 
@@ -101,27 +100,31 @@
 ```
 </div>
 
-<div align="right">
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400"/>](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=b8bc57d770134382)
-
+<div align="center">
+    
  <!-- SOCIAL NETWORK -->
 [![SPOTIFY](https://img.shields.io/badge/-161B22?style=flat-square&logo=spotify&link=https://open.spotify.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![SOUNDCLOUD](https://img.shields.io/badge/-161B22?style=flat-square&logo=soundcloud&link=https://open.soundcloud.com/)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
-[![INSTAGRAM](https://img.shields.io/badge/-white?style=flat-square&logo=instagram&link=https://open.spotify.com/)](https://www.instagram.com/hustavojhon/)
-[![FACEBOOK](https://img.shields.io/badge/-white?style=flat-square&logo=facebook&link=https://open.spotify.com/)](https://www.facebook.com/hustavojhon/)
-[![TWITTER](https://img.shields.io/badge/-white?style=flat-square&logo=twitter&link=https://open.spotify.com/)](https://twitter.com/hustavoJhon)
-[![TIK-TOK](https://img.shields.io/badge/-383A3D?style=flat-square&logo=tiktok&link=https://open.spotify.com/)](https://www.tiktok.com/@hustavojhon)
-[![REDDIT](https://img.shields.io/badge/-white?style=flat-square&logo=reddit&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
-[![SNAPCHAT](https://img.shields.io/badge/-white?style=flat-square&logo=snapchat&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
-[![PINTEREST](https://img.shields.io/badge/-white?style=flat-square&logo=pinterest&link=https://open.spotify.com/)](https://hu.pinterest.com/hustavojhon/)
-[![DISCORD](https://img.shields.io/badge/-white?style=flat-square&logo=discord&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
-[![SLACK](https://img.shields.io/badge/-white?style=flat-square&logo=slack&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
-[![LINKEDIN](https://img.shields.io/badge/-white?style=flat-square&logo=linkedin&link=https://open.spotify.com/)](https://www.linkedin.com/in/hustavojhon/)
-[![YOUTUBE](https://img.shields.io/badge/-white?style=flat-square&logo=youtube&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
-[![TWITCH](https://img.shields.io/badge/-white?style=flat-square&logo=twitch&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
-[![TELEGRAM](https://img.shields.io/badge/-black?style=flat&logo=telegram&link=https://bash.com/)](#iterm2)
-      
+[![INSTAGRAM](https://img.shields.io/badge/-161B22?style=flat-square&logo=instagram&link=https://open.spotify.com/)](https://www.instagram.com/hustavojhon/)
+[![FACEBOOK](https://img.shields.io/badge/-161B22?style=flat-square&logo=facebook&link=https://open.spotify.com/)](https://www.facebook.com/hustavojhon/)
+[![TWITTER](https://img.shields.io/badge/-161B22?style=flat-square&logo=twitter&link=https://open.spotify.com/)](https://twitter.com/hustavoJhon)
+[![TIK-TOK](https://img.shields.io/badge/-161B22?style=flat-square&logo=tiktok&link=https://open.spotify.com/)](https://www.tiktok.com/@hustavojhon)
+[![REDDIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=reddit&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
+[![SNAPCHAT](https://img.shields.io/badge/-161B22?style=flat-square&logo=snapchat&link=https://open.spotify.com/)](https://www.reddit.com/user/hustav01)
+[![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127&link=https://open.spotify.com/)](https://hu.pinterest.com/hustavojhon/)
+[![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
+[![SLACK](https://img.shields.io/badge/-161B22?style=flat-square&logo=slack&logoColor=36C5F0&link=https://open.spotify.com/)](https://discord.gg/yNRKn29Rew)
+[![LINKEDIN](https://img.shields.io/badge/-161B22?style=flat-square&logo=linkedin&logoColor=0077B5&link=https://open.spotify.com/)](https://www.linkedin.com/in/hustavojhon/)
+[![YOUTUBE](https://img.shields.io/badge/-161B22?style=flat-square&logo=youtube&logoColor=CE1312&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
+[![TWITCH](https://img.shields.io/badge/-161B22?style=flat-square&logo=twitch&link=https://open.spotify.com/)](https://www.youtube.com/@hustavojhon)
+[![TELEGRAM](https://img.shields.io/badge/-161B22?style=flat&logo=telegram&link=https://bash.com/)](#iterm2)
+
+</div>
+
+<div align="center">
+
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500"/>](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=b8bc57d770134382)
+
 </div>
 
 </details>
