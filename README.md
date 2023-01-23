@@ -1,6 +1,3 @@
-<!--<p align="left"><b><samp>「</samp></b></p> -->
-<p align="center">
-<samp>
 <div align="left">
     <img  alt="gif" width="220px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 </div>
@@ -10,30 +7,7 @@
 ```ocaml
 I'm Gustavo, front-end developer & Linux enthusiast 🔭
 ```
-
-<!--</div>
-    </samp>
-  </p>
-<!--<p align="right"><b><samp>」</samp></b></p> -->
-
-<!--<<br>
-
-<details align="center">
-<summary> &#9655;</summary>
-<br>
--->
-<!--
-<h2></h2><br>
-  <p align="center">
-  <samp>
-    [<a href="https://#!">Skills</a>]
-    [<a href="mailto:hustavoJhon@gmail.com">Social</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
--->
-
+    
 <div align="left">
 <!-- EXAMPLE [![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon) -->
     
@@ -79,8 +53,6 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 </div>
 
 <br>
-
-    
     
 <details align="center">
     
