@@ -99,5 +99,6 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 
 </div>
 
+[![DEVTO](https://img.shields.io/badge/-161B22?style=flat&logo=dev.to&link=https://bash.com/)](#iterm2)
+    
 </details>
-
