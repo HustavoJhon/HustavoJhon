@@ -57,7 +57,7 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
     
 <summary> &#128427;</summary>
     
-<div align="left">
+<!-- <div align="left">
     
 ```css
       /\\        🚀: Back-End
@@ -69,10 +69,9 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 /_-''    ''-_\\  🏛️: Writers
 ```
     
-</div>
+</div> -->
 
 <div align="center">
-<div align="left">
     
 ```css
 ██████╗ ██╗██████╗  █████╗ ████████╗███████╗ 
@@ -82,7 +81,6 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 ██║     ██║██║  ██║██║  ██║   ██║   ███████╗ 
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ 
 ```
-</div>
 </div>
     
 <br>
