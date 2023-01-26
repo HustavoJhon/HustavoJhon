@@ -8,7 +8,6 @@
 I'm Gustavo, front-end developer & Linux enthusiast 🔭
 ```
     
-<div align="left">
 <!-- 
 EXAMPLE 
 [![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon)
@@ -16,8 +15,13 @@ EXAMPLE
 [![Go](https://img.shields.io/badge/-black?style=flat&logo=go)](https://github.com/hustavoJhon)
 [![PHP](https://img.shields.io/badge/-black?style=flat&logo=php)](https://github.com/hustavojhon) 
 [![BOOTSTRAP](https://img.shields.io/badge/-black?style=flat&logo=bootstrap)](https://github.com/hustavojhon)
+[![SQLSERVER](https://img.shields.io/badge/-black?style=flat&logo=microsoftsqlserver&logoColor=A91D22)](https://github.com/hustavojhon) 
+[![MYSQL](https://img.shields.io/badge/-black?style=flat&logo=mysql&logoColor=00758F)](https://github.com/hustavojhon) 
+[![Oraclesql](https://img.shields.io/badge/-black?style=flat&logo=oracle&logoColor=C74634)](https://github.com/hustavojhon)
+[![CPANEL](https://img.shields.io/badge/-black?style=flat&logo=cpanel)](https://)
+[![LARAVEL](https://img.shields.io/badge/-black?style=flat&logo=laravel)](https://)
 -->
-    
+<div align="left">
     
 [![Python](https://img.shields.io/badge/-black?style=flat&logo=python)](https://github.com/hustavoJhon)
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)](https://github.com/hsutavojhon) 
@@ -26,9 +30,6 @@ EXAMPLE
 [![MARKDOWN](https://img.shields.io/badge/-black?style=flat&logo=markdown)](https://github.com/hustavoJhon)
 [![NPM](https://img.shields.io/badge/-black?style=flat&logo=npm)](https://github.com/hustavojhon) 
 [![NODEJS](https://img.shields.io/badge/-black?style=flat&logo=node.js)](https://github.com/hustavoJhon) 
-[![SQLSERVER](https://img.shields.io/badge/-black?style=flat&logo=microsoftsqlserver&logoColor=A91D22)](https://github.com/hustavojhon) 
-[![MYSQL](https://img.shields.io/badge/-black?style=flat&logo=mysql&logoColor=00758F)](https://github.com/hustavojhon) 
-[![Oraclesql](https://img.shields.io/badge/-black?style=flat&logo=oracle&logoColor=C74634)](https://github.com/hustavojhon)
 [![LINUX](https://img.shields.io/badge/-black?style=flat&logo=linux)](https://github.com/hustavojhon) 
 [![ARCH](https://img.shields.io/badge/-black?style=flat&logo=archlinux)](https://github.com/hustavojhon)
 [![UBUNTU](https://img.shields.io/badge/-black?style=flat&logo=ubuntu)](https://github.com/hustavojhon)
@@ -50,8 +51,6 @@ EXAMPLE
 [![PHOTOSHOP](https://img.shields.io/badge/-black?style=flat&logo=adobephotoshop)](https://)
 [![AFTEREFFECTS](https://img.shields.io/badge/-black?style=flat&logo=adobeaftereffects)](https://)
 [![VIRTUALBOX](https://img.shields.io/badge/-black?style=flat&logo=virtualbox)](https://)
-[![CPANEL](https://img.shields.io/badge/-black?style=flat&logo=cpanel)](https://)
-[![LARAVEL](https://img.shields.io/badge/-black?style=flat&logo=laravel)](https://)
 
 </div>
 
