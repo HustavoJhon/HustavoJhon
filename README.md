@@ -102,6 +102,7 @@ EXAMPLE
 [![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127)](https://hu.pinterest.com/hustavojhon/)
 [![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord)](https://discord.gg/yNRKn29Rew)
 [![SLACK](https://img.shields.io/badge/-161B22?style=flat-square&logo=slack&logoColor=36C5F0)](https://discord.gg/yNRKn29Rew)
+[![HACKTHEBOX](https://img.shields.io/badge/-161B22?style=flat&logo=hackthebox)](https://dev.to/hustavojhon)
 [![LINKEDIN](https://img.shields.io/badge/-161B22?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/hustavojhon/)
 [![YOUTUBE](https://img.shields.io/badge/-161B22?style=flat-square&logo=youtube&logoColor=CE1312)](https://www.youtube.com/@hustavojhon)
 [![TWITCH](https://img.shields.io/badge/-161B22?style=flat-square&logo=twitch)](https://www.youtube.com/@hustavojhon)
