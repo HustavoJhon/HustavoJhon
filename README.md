@@ -112,8 +112,19 @@ EXAMPLE
 
 <div align="center">
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500"/>](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq?si=b8bc57d770134382)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500"/>](https://open.spotify.com/artist/34GQP3dILpyCN018y2k61L)
 
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=compact&show_offline=false&background_color=161b22" width="100"/>](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=default&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)
+
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true" width="500"/>](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=default&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)
+    
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true" width="500"/>](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=default&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uolwi7gtcly3byvfewmnrgo7pq&redirect=true)
+    
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
+        
 </div>
 
 [![DEVTO](https://img.shields.io/badge/-161B22?style=flat&logo=dev.to)](https://dev.to/hustavojhon)
