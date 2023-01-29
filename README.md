@@ -74,7 +74,7 @@ EXAMPLE
     
 </div> -->
 
-<div align="left">
+<div align="center">
     
 ```css
 ██████╗ ██╗██████╗  █████╗ ████████╗███████╗ 
