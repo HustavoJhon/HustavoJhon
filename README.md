@@ -92,22 +92,18 @@ EXAMPLE
 <div align="center">
     
  <!-- SOCIAL NETWORK -->
-[![SPOTIFY](https://img.shields.io/badge/-161B22?style=flat-square&logo=spotify)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
-[![SOUNDCLOUD](https://img.shields.io/badge/-161B22?style=flat-square&logo=soundcloud)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
+
 [![INSTAGRAM](https://img.shields.io/badge/-161B22?style=flat-square&logo=instagram)](https://www.instagram.com/hustavojhon/)
 [![FACEBOOK](https://img.shields.io/badge/-161B22?style=flat-square&logo=facebook)](https://www.facebook.com/hustavojhon/)
 [![TWITTER](https://img.shields.io/badge/-161B22?style=flat-square&logo=twitter)](https://twitter.com/hustavoJhon)
 [![TIK-TOK](https://img.shields.io/badge/-161B22?style=flat-square&logo=tiktok)](https://www.tiktok.com/@hustavojhon)
 [![REDDIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=reddit)](https://www.reddit.com/user/hustav01)
 [![SNAPCHAT](https://img.shields.io/badge/-161B22?style=flat-square&logo=snapchat)](https://www.reddit.com/user/hustav01)
-[![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127)](https://hu.pinterest.com/hustavojhon/)
-[![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord)](https://discord.gg/yNRKn29Rew)
-[![SLACK](https://img.shields.io/badge/-161B22?style=flat-square&logo=slack&logoColor=36C5F0)](https://discord.gg/yNRKn29Rew)
-[![HACKTHEBOX](https://img.shields.io/badge/-161B22?style=flat&logo=hackthebox)](https://dev.to/hustavojhon)
 [![LINKEDIN](https://img.shields.io/badge/-161B22?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/hustavojhon/)
+[![TELEGRAM](https://img.shields.io/badge/-161B22?style=flat-square&logo=gmail)](mailto:hustavojhon@gmail.com)
 [![YOUTUBE](https://img.shields.io/badge/-161B22?style=flat-square&logo=youtube&logoColor=CE1312)](https://www.youtube.com/@hustavojhon)
 [![TWITCH](https://img.shields.io/badge/-161B22?style=flat-square&logo=twitch)](https://www.youtube.com/@hustavojhon)
-[![TELEGRAM](https://img.shields.io/badge/-161B22?style=flat&logo=telegram)](https://)
+[![TELEGRAM](https://img.shields.io/badge/-161B22?style=flat-square&logo=telegram)](https://)
 
 </div>
 
@@ -127,7 +123,16 @@ EXAMPLE
 
         
 </div>
-
-[![DEVTO](https://img.shields.io/badge/-161B22?style=flat&logo=dev.to)](https://dev.to/hustavojhon)
-
+    
+[![SPOTIFY](https://img.shields.io/badge/-161B22?style=flat-square&logo=spotify)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
+[![SOUNDCLOUD](https://img.shields.io/badge/-161B22?style=flat-square&logo=soundcloud)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
+[![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127)](https://hu.pinterest.com/hustavojhon/)
+[![REPLIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=replit)](https://dev.to/hustavojhon)
+[![HACKTHEBOX](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackthebox)](https://dev.to/hustavojhon)
+[![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord)](https://discord.gg/yNRKn29Rew)
+[![SLACK](https://img.shields.io/badge/-161B22?style=flat-square&logo=slack&logoColor=36C5F0)](https://discord.gg/yNRKn29Rew)
+[![DEVTO](https://img.shields.io/badge/-161B22?style=flat-square&logo=dev.to)](https://dev.to/hustavojhon)
+[![NOTION](https://img.shields.io/badge/-161B22?style=flat-square&logo=notion)](https://dev.to/hustavojhon)
+[![BEHANCE](https://img.shields.io/badge/-161B22?style=flat-square&logo=behance)](https://dev.to/hustavojhon)
+    
 </details>
