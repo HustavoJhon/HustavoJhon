@@ -34,6 +34,7 @@ EXAMPLE
 [![ARCH](https://img.shields.io/badge/-black?style=flat&logo=archlinux)](https://github.com/hustavojhon)
 [![UBUNTU](https://img.shields.io/badge/-black?style=flat&logo=ubuntu)](https://github.com/hustavojhon)
 [![KALI](https://img.shields.io/badge/-black?style=flat&logo=kalilinux)](https://github.com/hustavojhon)
+[![FEDORA](https://img.shields.io/badge/-black?style=flat&logo=fedora)](https://github.com/hustavojhon)
 [![MANJARO](https://img.shields.io/badge/-black?style=flat&logo=manjaro)](https://github.com/hustavojhon)
 [![DEBIAN](https://img.shields.io/badge/-black?style=flat&logo=debian&logoColor=D30751)](https://github.com/hustavojhon)
 [![VIM](https://img.shields.io/badge/-black?style=flat&logo=vim&logoColor=019833)](https://github.com/hustavojhon)
