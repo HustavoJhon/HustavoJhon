@@ -42,6 +42,7 @@ EXAMPLE
 [![VSC](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=3CA9F2)](https://github.com/hustavojhon)
 [![VISUAL STUDIO](https://img.shields.io/badge/-black?style=flat&logo=visualstudio&logoColor=8D58CB)](#iterm2)
 [![INTELLIJ](https://img.shields.io/badge/-black?style=flat&logo=intellijidea&logoColor=FE315D)](https://github.com/hustavojhon)
+[![VIRTUALBOX](https://img.shields.io/badge/-black?style=flat&logo=virtualbox)](https://)
 [![GIT](https://img.shields.io/badge/-black?style=flat&logo=git)](https://github.com/hustavojhon) 
 [![GITHUB](https://img.shields.io/badge/-black?style=flat&logo=github)](https://github.com/hustavojhon)
 [![GNU_BASH](https://img.shields.io/badge/-black?style=flat&logo=gnu-bash)](https://github.com/hustavojhon) 
@@ -51,7 +52,7 @@ EXAMPLE
 [![ILLUSTRATOR](https://img.shields.io/badge/-black?style=flat&logo=adobeillustrator)](https://)
 [![PHOTOSHOP](https://img.shields.io/badge/-black?style=flat&logo=adobephotoshop)](https://)
 [![AFTEREFFECTS](https://img.shields.io/badge/-black?style=flat&logo=adobeaftereffects)](https://)
-[![VIRTUALBOX](https://img.shields.io/badge/-black?style=flat&logo=virtualbox)](https://)
+
 
 </div>
 
