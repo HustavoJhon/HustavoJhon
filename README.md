@@ -23,7 +23,7 @@ EXAMPLE
 -->
 <div align="left">
     
-[![Python](https://img.shields.io/badge/-black?style=flat&logo=python)](https://github.com/hustavoJhon)
+[![Python](https://img.shields.io/badge/-black?style=flat&logo=python)](https://github.com/hustavoJhon/basic)
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)](https://github.com/hsutavojhon) 
 [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5)](https://github.com/hustavoJhon) 
 [![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=264DE4)](https://github.com/hustavoJhon) 
