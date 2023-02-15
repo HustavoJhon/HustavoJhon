@@ -20,6 +20,8 @@ EXAMPLE
 [![Oraclesql](https://img.shields.io/badge/-black?style=flat&logo=oracle&logoColor=C74634)](https://github.com/hustavojhon)
 [![CPANEL](https://img.shields.io/badge/-black?style=flat&logo=cpanel)](https://)
 [![LARAVEL](https://img.shields.io/badge/-black?style=flat&logo=laravel)](https://)
+[![NPM](https://img.shields.io/badge/-black?style=flat&logo=npm)](https://github.com/hustavojhon) 
+[![NODEJS](https://img.shields.io/badge/-black?style=flat&logo=node.js)](https://github.com/hustavoJhon) 
 -->
 <div align="left">
     
@@ -28,8 +30,6 @@ EXAMPLE
 [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5)](https://github.com/hustavoJhon) 
 [![CSS3](https://img.shields.io/badge/-black?style=flat&logo=css3&logoColor=264DE4)](https://github.com/hustavoJhon) 
 [![MARKDOWN](https://img.shields.io/badge/-black?style=flat&logo=markdown)](https://github.com/hustavoJhon)
-[![NPM](https://img.shields.io/badge/-black?style=flat&logo=npm)](https://github.com/hustavojhon) 
-[![NODEJS](https://img.shields.io/badge/-black?style=flat&logo=node.js)](https://github.com/hustavoJhon) 
 [![LINUX](https://img.shields.io/badge/-black?style=flat&logo=linux)](https://github.com/hustavojhon) 
 [![ARCH](https://img.shields.io/badge/-black?style=flat&logo=archlinux)](https://github.com/hustavojhon)
 [![UBUNTU](https://img.shields.io/badge/-black?style=flat&logo=ubuntu)](https://github.com/hustavojhon)
