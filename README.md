@@ -3,10 +3,30 @@
 </div>
 
 <div align="center">
-
+    
 ```ocaml
 I'm Gustavo, front-end developer & Linux enthusiast 🔭
 ```
+
+</div>
+
+
+<div align="center">
+    
+<samp>
+"I'm a programming enthusiast and I'm learning Python and I'm a big fan of Linux and working with open source operating systems. I really enjoy the ability to create new things and the freedom that programming offers to experiment and be creative."
+</samp>
+    
+</div>
+
+<br>
+
+<details align="center">
+    
+<summary> </summary>
+
+
+<div align="center">
     
 <!-- 
 EXAMPLE 
@@ -23,7 +43,7 @@ EXAMPLE
 [![NPM](https://img.shields.io/badge/-black?style=flat&logo=npm)](https://github.com/hustavojhon) 
 [![NODEJS](https://img.shields.io/badge/-black?style=flat&logo=node.js)](https://github.com/hustavoJhon) 
 -->
-<div align="left">
+<div align="center">
     
 [![Python](https://img.shields.io/badge/-black?style=flat&logo=python)](https://github.com/hustavoJhon/basic)
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)](https://github.com/hsutavojhon) 
@@ -57,10 +77,6 @@ EXAMPLE
 </div>
 
 <br>
-    
-<details align="center">
-    
-<summary> &#128427;</summary>
     
 <!-- <div align="left">
     
