@@ -26,15 +26,9 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 <div align="center">
 
 
-<div align="right">
-
-<samp>
-"I'm a programming enthusiast and I'm learning Python and I'm a big fan of Linux and working with open source operating systems. I really enjoy the ability to create new things and the freedom that programming offers to experiment and be creative."
-</samp>
+<div align="left">
     
 </div>
-    
-<br>
     
 <!-- 
 EXAMPLE 
@@ -64,6 +58,7 @@ EXAMPLE
 [![KALI](https://img.shields.io/badge/-black?style=flat&logo=kalilinux)](https://github.com/hustavojhon)
 [![FEDORA](https://img.shields.io/badge/-black?style=flat&logo=fedora)](https://github.com/hustavojhon)
 [![MANJARO](https://img.shields.io/badge/-black?style=flat&logo=manjaro)](https://github.com/hustavojhon)
+
 [![DEBIAN](https://img.shields.io/badge/-black?style=flat&logo=debian&logoColor=D30751)](https://github.com/hustavojhon)
 [![VIM](https://img.shields.io/badge/-black?style=flat&logo=vim&logoColor=019833)](https://github.com/hustavojhon)
 [![NEOVIM](https://img.shields.io/badge/-black?style=flat&logo=neovim)](https://github.com/hustavojhon)
@@ -75,6 +70,7 @@ EXAMPLE
 [![GITHUB](https://img.shields.io/badge/-black?style=flat&logo=github)](https://github.com/hustavojhon)
 [![GNU_BASH](https://img.shields.io/badge/-black?style=flat&logo=gnu-bash)](https://github.com/hustavojhon) 
 [![POWERSHELL](https://img.shields.io/badge/-black?style=flat&logo=powershell)](https://github.com/hustavojhon)
+
 [![STACKOVERFLOW](https://img.shields.io/badge/-black?style=flat&logo=stackoverflow&logoColor=F17C10)](https://)
 [![PREMIERE PRO](https://img.shields.io/badge/-black?style=flat&logo=adobepremierepro)](https://)
 [![ILLUSTRATOR](https://img.shields.io/badge/-black?style=flat&logo=adobeillustrator)](https://)
