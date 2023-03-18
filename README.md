@@ -18,24 +18,23 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 <span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>📘 <a href="https://drive.google.com/file/d/1NS8O9Ji3L17fLsQvvTDP4msyS5xtFgti/view?usp=sharing">cv</a>              
 </pre>
 
----
+<details align="center">
+    
+<summary> </summary>
+
+<div align="center">
 
 <br>
 
-<details align="center">
-    
-<div align="center">
-    
+<div align="right">
+
 <samp>
 "I'm a programming enthusiast and I'm learning Python and I'm a big fan of Linux and working with open source operating systems. I really enjoy the ability to create new things and the freedom that programming offers to experiment and be creative."
 </samp>
     
 </div>
     
-<summary> </summary>
-
-
-<div align="center">
+<br>
     
 <!-- 
 EXAMPLE 
@@ -82,39 +81,7 @@ EXAMPLE
 [![PHOTOSHOP](https://img.shields.io/badge/-black?style=flat&logo=adobephotoshop)](https://)
 [![AFTEREFFECTS](https://img.shields.io/badge/-black?style=flat&logo=adobeaftereffects)](https://)
 
-
 </div>
-
-<br>
-    
-<!-- <div align="left">
-    
-```css
-      /\\        🚀: Back-End
-     /  \\       🐍: Python
-    /\\  \\      🎈: Design
-   /      \\     🏠: Peruvian
-  /   ,,   \\    🐧: Pacman
- /   |  |  -\\   🎵: Joji
-/_-''    ''-_\\  🏛️: Writers
-```
-    
-</div> -->
-
-<div align="center">
-    
-```css
-██████╗ ██╗██████╗  █████╗ ████████╗███████╗ 
-██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝ 
-██████╔╝██║██████╔╝███████║   ██║   █████╗   
-██╔═══╝ ██║██╔══██╗██╔══██║   ██║   ██╔══╝   
-██║     ██║██║  ██║██║  ██║   ██║   ███████╗ 
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ 
-```
-</div>
-
-    
-<br>
 
 <div align="center">
     
@@ -145,8 +112,6 @@ EXAMPLE
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true" width="500"/>](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=default&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uolwi7gtcly3byvfewmnrgo7pq&redirect=true) -->
-    
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L)
 
         
 </div>
@@ -162,5 +127,7 @@ EXAMPLE
 [![DEVTO](https://img.shields.io/badge/-161B22?style=flat-square&logo=dev.to)](https://dev.to/hustavojhon)
 [![NOTION](https://img.shields.io/badge/-161B22?style=flat-square&logo=notion)](https://dev.to/hustavojhon)
 [![BEHANCE](https://img.shields.io/badge/-161B22?style=flat-square&logo=behance)](https://dev.to/hustavojhon)
+    
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L)
     
 </details>
