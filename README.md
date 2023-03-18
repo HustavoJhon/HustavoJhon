@@ -18,39 +18,12 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 <span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>📘 Author              
 </pre>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
+<br>
 
-<div align="left">
-    <img  alt="gif" width="220px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
-</div>
-
-<div align="center">
+<details align="center">
     
-```ocaml
-I'm Gustavo, front-end developer & Linux enthusiast 🔭
-```
-
-</div>
-
-
 <div align="center">
     
 <samp>
@@ -58,10 +31,6 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 </samp>
     
 </div>
-
-<br>
-
-<details align="center">
     
 <summary> </summary>
 
