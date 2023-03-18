@@ -46,6 +46,8 @@ EXAMPLE
 -->
 <div align="center">
     
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">SKILLS</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span></pre>
+    
 [![Python](https://img.shields.io/badge/-black?style=flat&logo=python)](https://github.com/hustavoJhon/basic)
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)](https://github.com/hsutavojhon) 
 [![HTML5](https://img.shields.io/badge/-black?style=flat&logo=html5)](https://github.com/hustavoJhon) 
@@ -80,6 +82,8 @@ EXAMPLE
 
 <div align="center">
     
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">SOCIAL NETWORK</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span></pre>
+    
  <!-- SOCIAL NETWORK -->
 
 [![INSTAGRAM](https://img.shields.io/badge/-161B22?style=flat-square&logo=instagram)](https://www.instagram.com/hustavojhon/)
@@ -93,6 +97,18 @@ EXAMPLE
 [![YOUTUBE](https://img.shields.io/badge/-161B22?style=flat-square&logo=youtube&logoColor=CE1312)](https://www.youtube.com/@hustavojhon)
 [![TWITCH](https://img.shields.io/badge/-161B22?style=flat-square&logo=twitch)](https://www.youtube.com/@hustavojhon)
 [![TELEGRAM](https://img.shields.io/badge/-161B22?style=flat-square&logo=telegram)](https://)
+    
+[![SPOTIFY](https://img.shields.io/badge/-161B22?style=flat-square&logo=spotify)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
+[![SOUNDCLOUD](https://img.shields.io/badge/-161B22?style=flat-square&logo=soundcloud)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
+[![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127)](https://hu.pinterest.com/hustavojhon/)
+[![REPLIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=replit)](https://dev.to/hustavojhon)
+[![HACKTHEBOX](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackthebox)](https://dev.to/hustavojhon)
+[![HACKERRANK](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/hustavojhon)
+[![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord)](https://discord.gg/yNRKn29Rew)
+[![SLACK](https://img.shields.io/badge/-161B22?style=flat-square&logo=slack&logoColor=36C5F0)](https://discord.gg/yNRKn29Rew)
+[![DEVTO](https://img.shields.io/badge/-161B22?style=flat-square&logo=dev.to)](https://dev.to/hustavojhon)
+[![NOTION](https://img.shields.io/badge/-161B22?style=flat-square&logo=notion)](https://dev.to/hustavojhon)
+[![BEHANCE](https://img.shields.io/badge/-161B22?style=flat-square&logo=behance)](https://dev.to/hustavojhon)
 
 </div>
 
@@ -107,21 +123,8 @@ EXAMPLE
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true" width="500"/>](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=default&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uolwi7gtcly3byvfewmnrgo7pq&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uolwi7gtcly3byvfewmnrgo7pq&redirect=true) -->
-
-        
+  
 </div>
-    
-[![SPOTIFY](https://img.shields.io/badge/-161B22?style=flat-square&logo=spotify)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
-[![SOUNDCLOUD](https://img.shields.io/badge/-161B22?style=flat-square&logo=soundcloud)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
-[![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127)](https://hu.pinterest.com/hustavojhon/)
-[![REPLIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=replit)](https://dev.to/hustavojhon)
-[![HACKTHEBOX](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackthebox)](https://dev.to/hustavojhon)
-[![HACKERRANK](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/hustavojhon)
-[![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord)](https://discord.gg/yNRKn29Rew)
-[![SLACK](https://img.shields.io/badge/-161B22?style=flat-square&logo=slack&logoColor=36C5F0)](https://discord.gg/yNRKn29Rew)
-[![DEVTO](https://img.shields.io/badge/-161B22?style=flat-square&logo=dev.to)](https://dev.to/hustavojhon)
-[![NOTION](https://img.shields.io/badge/-161B22?style=flat-square&logo=notion)](https://dev.to/hustavojhon)
-[![BEHANCE](https://img.shields.io/badge/-161B22?style=flat-square&logo=behance)](https://dev.to/hustavojhon)
     
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L)
     
