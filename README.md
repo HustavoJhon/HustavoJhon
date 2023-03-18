@@ -1,14 +1,21 @@
+<div align="center">
+    
+```ocaml
+I'm Gustavo, front-end developer & Linux enthusiast 🔭
+```
+</div>
 <div align="left">
     <img  alt="gif" width="280px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
+    
 </div>
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
-<span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span>            
-<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a freelance software developer, living in Peru/Cusco <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span> Scotland. Other than open source software development,   <span style="color: #000080; text-decoration-color: #000080">║</span>      
-<span style="color: #000080; text-decoration-color: #000080">║</span> my passion would be <a href="https://www.willmcgugan.com/blog/photography/">wildlife photography</a>.                <span style="color: #000080; text-decoration-color: #000080">║</span>  
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>        
-<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/willmcgugan">@willmcgugan</a></span>                        <span style="color: #000080; text-decoration-color: #000080">║</span> 
-<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>             
+
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://www.willmcgugan.com">Will McGugan</a>            
+<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a freelance software developer, living in <a href="https://www.google.com/maps/place/Edinburgh/@55.9411289,-3.3454205,11z">Edinburgh</a>, <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python expert       
+<span style="color: #000080; text-decoration-color: #000080">║</span> Scotland. Other than open source software development,   <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/willmcgugan/rich">Rich</a>            
+<span style="color: #000080; text-decoration-color: #000080">║</span> my passion would be <a href="https://www.willmcgugan.com/blog/photography/">wildlife photography</a>.                <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>⭐ <a href="https://github.com/pyfilesystem/pyfilesystem2">PyFilesystem</a>    
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>⭐ <a href="https://github.com/wildfoundry/dataplicity-lomond">Lomond</a>          
+<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/willmcgugan">@willmcgugan</a></span>                        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🔧 Full-stack developer
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>📘 Author              
 </pre>
 
 
