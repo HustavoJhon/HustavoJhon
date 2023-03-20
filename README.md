@@ -46,7 +46,7 @@ EXAMPLE
 -->
 <div align="center">
     
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">SKILLS</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span></pre>
+<code>╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">SKILLS</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</code>
     
 [![Python](https://img.shields.io/badge/-black?style=flat&logo=python)](https://github.com/hustavoJhon/basic)
 [![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)](https://github.com/hsutavojhon) 
@@ -82,7 +82,7 @@ EXAMPLE
 
 <div align="center">
     
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">SOCIAL NETWORK</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span></pre>
+<code style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">SOCIAL NETWORK</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</code>
     
  <!-- SOCIAL NETWORK -->
 
