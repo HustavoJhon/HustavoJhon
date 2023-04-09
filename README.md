@@ -5,11 +5,6 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 ```
 </div> -->
 
-<div align="left">
-    <img  alt="gif" width="220px" align="left" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
-    
-</div>
-
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🐧 <a href="https://hustavojhon.github.io/resume/">Jhon Gustavo</a>            
 <span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a freelance software developer, living in <a href="https://www.google.com/maps/place/Edinburgh/@55.9411289,-3.3454205,11z">Perú/Cusco</a>,<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 project.py     
 <span style="color: #000080; text-decoration-color: #000080">║</span> Scotland. Other than open source software development,   <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>💀 <a href="https://github.com/HustavoJhon/pirate">pirate</a>            
@@ -24,6 +19,7 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 
 <div align="center">
 
+<img  alt="gif" width="300px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
 
 <div align="left">
     
