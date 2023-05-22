@@ -19,7 +19,7 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 
 <div align="center">
 
-<img  alt="gif" width="300px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />
+<!--<img  alt="gif" width="300px" src="https://i.postimg.cc/ZRtPHmt3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67.gif" />-->
 
 <div align="left">
     
