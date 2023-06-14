@@ -28,17 +28,6 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 <!-- 
 EXAMPLE 
 [![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon)
-
-[![Go](https://img.shields.io/badge/-black?style=flat&logo=go)](https://github.com/hustavoJhon)
-[![PHP](https://img.shields.io/badge/-black?style=flat&logo=php)](https://github.com/hustavojhon) 
-[![BOOTSTRAP](https://img.shields.io/badge/-black?style=flat&logo=bootstrap)](https://github.com/hustavojhon)
-[![SQLSERVER](https://img.shields.io/badge/-black?style=flat&logo=microsoftsqlserver&logoColor=A91D22)](https://github.com/hustavojhon) 
-[![MYSQL](https://img.shields.io/badge/-black?style=flat&logo=mysql&logoColor=00758F)](https://github.com/hustavojhon) 
-[![Oraclesql](https://img.shields.io/badge/-black?style=flat&logo=oracle&logoColor=C74634)](https://github.com/hustavojhon)
-[![CPANEL](https://img.shields.io/badge/-black?style=flat&logo=cpanel)](https://)
-[![LARAVEL](https://img.shields.io/badge/-black?style=flat&logo=laravel)](https://)
-[![NPM](https://img.shields.io/badge/-black?style=flat&logo=npm)](https://github.com/hustavojhon) 
-[![NODEJS](https://img.shields.io/badge/-black?style=flat&logo=node.js)](https://github.com/hustavoJhon) 
 -->
 <div align="center">
     
