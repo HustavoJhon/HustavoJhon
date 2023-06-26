@@ -27,6 +27,8 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
     
 <!-- 
 SHIELDS.IO
+[![play Badge](https://img.shields.io/badge/-Google_Play-3DDC84?style=for-the-badge&labelColor=273347&logo=android&logoColor=3DDC84&link=https://play.google.com/store/apps/developer?id=Aymanz)](https://play.google.com/store/apps/developer?id=Aymanz)&nbsp;
+
 
 color
 &logo=go&logoColor=white&link=#go
