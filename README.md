@@ -26,8 +26,18 @@ I'm Gustavo, front-end developer & Linux enthusiast 🔭
 </div>
     
 <!-- 
-EXAMPLE 
-[![Go](https://img.shields.io/badge/-00AAD7?style=flat&logo=go&logoColor=white&link=#go)](https://github.com/hustavoJhon)
+SHIELDS.IO
+
+color
+&logo=go&logoColor=white&link=#go
+
+style
+
+?style=plastic&
+?style=flat&
+?style=flat-square&
+?style=for-the-badge&
+?style=social&
 -->
 <div align="center">
     
