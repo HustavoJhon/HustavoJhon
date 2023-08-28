@@ -98,7 +98,7 @@ style
 [![SPOTIFY](https://img.shields.io/badge/-161B22?style=flat-square&logo=spotify)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![SOUNDCLOUD](https://img.shields.io/badge/-161B22?style=flat-square&logo=soundcloud)](https://open.spotify.com/user/31uolwi7gtcly3byvfewmnrgo7pq?si=70d5793f89b64952)
 [![PINTEREST](https://img.shields.io/badge/-161B22?style=flat-square&logo=pinterest&logoColor=CC2127)](https://hu.pinterest.com/hustavojhon/)
-[![REPLIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=replit)](https://dev.to/hustavojhon)
+[![REPLIT](https://img.shields.io/badge/-161B22?style=flat-square&logo=replit)](https://replit.com/@HustavoJhon)
 [![HACKTHEBOX](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackthebox)](https://dev.to/hustavojhon)
 [![HACKERRANK](https://img.shields.io/badge/-161B22?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/hustavojhon)
 [![DISCORD](https://img.shields.io/badge/-161B22?style=flat-square&logo=discord)](https://discord.gg/yNRKn29Rew)
