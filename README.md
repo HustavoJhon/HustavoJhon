@@ -5,6 +5,6 @@
 ║ Enthusiast of programming and Linux distributions.    ║ <span style="color: #008080">┃   </span><span style="color: #008000">┣━━</span> ⚡ .NET / Spring Boot
 ║ Passionate about building scalable web applications.  ║ <span style="color: #008080">┃   </span><span style="color: #008000">┗━━</span> 🐧 Linux user
 ║                                                       ║ 
-║ <span style="color: #008000">Follow me on GitHub </span><a href="https://github.com/hustavojhon">@hustavojhon</a>                      ║
+║ <span style="color: #008000">Follow me on Instagram </span><a href="https://www.instagram.com/hustavojhon/">@hustavojhon</a>                      ║
 ╚═══════════════════════════════════════════════════════╝
 </pre>
